@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Ways to create a chatbot**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Maching learning, Deep learning, Natural Programming Language**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Java, Python, ... or anything [here](https://github.com/amedinByBivium/amedinByBivium/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=androidstudio,bash,css,debian,gradle,eclipse,figma,firebase,flask,flutter,html" />
+    <img src="https://skillicons.dev/icons?i=java,js,jquery,kali,latex,linux,mysql,py,qt,sqlite,tensorflow,cs" /><br>
 </div>
 
 <br/>
@@ -49,10 +49,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-amedinByBivium.vercel.app/?user=amedinByBivium&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-amedinByBivium.vercel.app/api?username=amedinByBivium&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-amedinByBivium.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=amedinByBivium&show_icons=true&theme=transparent"/>
+    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amedinByBivium&layout=compact&&langs_count=8"/>
 </div>
 
 <br/><br/>
